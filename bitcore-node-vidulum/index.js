@@ -18,7 +18,7 @@ var InsightUI = function(options) {
   }
 };
 
-InsightUI.dependencies = ['insight-api'];
+InsightUI.dependencies = ['insight-api-vidulum'];
 
 inherits(InsightUI, BaseService);
 
