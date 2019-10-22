@@ -4,7 +4,7 @@ angular.module('insight')
 .constant('Constants', {
 
 	CURRENCY: {
-		ZEC : 'ZEC',
+		VDL : 'VDL',
 		USD : 'USD',
 		BTC : 'BTC'
 	},
@@ -14,7 +14,7 @@ angular.module('insight')
 	CHART_DAYS: 14,
     NETWORK: window.current_network ? window.current_network : 'livenet',
     DEFAULT_LANGUAGE: localStorage.getItem('insight-language') || 'en',
-    DEFAULT_CURRENCY: localStorage.getItem('insight-currency') || 'ZEC'
+    DEFAULT_CURRENCY: localStorage.getItem('insight-currency') || 'VDL'
 
 });
 //Setting up route

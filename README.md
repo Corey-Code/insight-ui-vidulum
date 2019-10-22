@@ -1,6 +1,6 @@
 # Insight UI
 
-A Ravencoin blockchain explorer web application service for [Bitcore Node ZECmate](https://github.com/ZECmate/bitore-node-zecmate) using the [Insight API](https://github.com/ZECmate/insight-api).
+A Ravencoin blockchain explorer web application service for [Bitcore Node Vidulum](https://github.com/Corey-Code/bitore-node-vidulum) using the [Insight API](https://github.com/Corey-Code/insight-api).
 
 
 ## Development
@@ -52,11 +52,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/ZECmate/insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/ZECmate/insight-api).
+For more details about the [Insight API](https://github.com/Corey-Code/insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/Corey-Code/insight-api).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/ZECmate/insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/Corey-Code/insight-ui).
 
 
 ## License

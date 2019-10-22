@@ -6817,7 +6817,7 @@ body,html {
     background-size: 80px
 }
 
-#powered a.zelcash,#powered a.twitter {
+#powered a.vidulum,#powered a.twitter {
     width: 20%;
     background-size: 80px
 }
@@ -6881,7 +6881,7 @@ body,html {
 #powered a.discord {
     width: 25%;
     background-size: 45px;
-    background-image: url(../img/rsz_discordlogo.png);
+    background-image: url(../img/discordlogo.png);
 }
 
 #powered a.twitter:hover {
@@ -6900,7 +6900,7 @@ body,html {
 }
 
 #powered a.discord:hover {
-    background-image: url(../img/rsz_discordlogo.png);
+    background-image: url(../img/discordlogo.png);
     filter: drop-shadow(0px 0 3px #000)
 }
 
