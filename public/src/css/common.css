@@ -6253,7 +6253,7 @@ body,html {
     background-color: #012d88f7;
     z-index: 4;
     position: fixed;
-    background-image: url('../../img/background.png');
+    background-image: url('../../img/background.jpg');
     background-size: 100%
 }
 
@@ -6520,7 +6520,7 @@ body,html {
     height: 51px;
     color: #fbfbfb;
     z-index: 0;
-    background-image: url('../../img/background.png');
+    background-image: url('../../img/background.jpg');
     background-size: 100%
 }
 
