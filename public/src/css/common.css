@@ -6174,7 +6174,8 @@ body,html {
     height: auto;
     min-height: 100%;
     margin: 0 auto -51px;
-    padding: 0 0 75px
+    padding: 0 0 75px;
+    background-color: #4c5463e6
 }
 
 .m10h {
